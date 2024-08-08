@@ -130,7 +130,7 @@
   color: #486e00;
   line-height: 140%;
 }
-/*-----------------catogery section--------------------*/
+/*-----------------catogery section---------++++++++++-----------*/
 .catogary_section {
   display: flex;
   justify-content: space-between;
@@ -161,7 +161,7 @@
   text-align: center;
 }
 
-/* ---------------third tile ------------------------- */
+/* -----------++++++++----third tile -+++++++++++++++++--------- */
 .third_tile {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
